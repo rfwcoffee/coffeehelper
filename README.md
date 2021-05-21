@@ -84,7 +84,11 @@
 
 ---
 
+![![image](https://github.com/rfwcoffee/coffeehelper/blob/main/img/ep_01.png)]
 
+![![image](https://github.com/rfwcoffee/coffeehelper/blob/main/img/ep_02.png)]
+
+![![image](https://github.com/rfwcoffee/coffeehelper/blob/main/img/ep_03.png)]
 
 ## 8. 기타팁
 
